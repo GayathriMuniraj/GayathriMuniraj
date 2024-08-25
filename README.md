@@ -1,4 +1,4 @@
-. 👋 Hi, I’m @GayathriMuniraj
+. 👋 Hi, I’m Gayathri
 . 🌱 I’m currently learning ReactJS
 . 💞️ I’m looking to collaborate on Projects
 . 😄 pronouns: Techie gurl

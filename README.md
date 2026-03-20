@@ -1,8 +1,8 @@
  ## Hi there 👋 Its me Gayathri
 
- Information Technology Enginnering Student
+ Information Technology Enginnering Graduate
   <img align ="right" width ="370" height="290" src="https://community.thriveglobal.com/wp-content/uploads/2020/07/Modren-Tech.jpg"/>
-  - 🌱 I’m currently learning ReactJS
+  - 🌱 I’m currently learning DSA
   - 💞️ I’m looking to collaborate on Projects
   - 😄 pronouns: Techie gurl
   - ⚡ Fun fact: I speak Hindi
